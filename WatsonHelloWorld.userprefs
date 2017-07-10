@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/unity-sdk-0.13.0/Scripts/Widgets/SpeechToTextWidget.cs">
+    <Files>
+      <File FileName="Assets/unity-sdk-0.13.0/Scripts/Debug/DebugReactor.cs" Line="60" Column="1" />
+      <File FileName="Assets/unity-sdk-0.13.0/Examples/ServiceExamples/Scripts/ExampleConversation.cs" Line="105" Column="6" />
+      <File FileName="Assets/unity-sdk-0.13.0/Scripts/Widgets/SpeechToTextWidget.cs" Line="299" Column="5" />
+      <File FileName="Assets/unity-sdk-0.13.0/Scripts/Widgets/MicrophoneWidget.cs" Line="43" Column="33" />
+      <File FileName="Assets/unity-sdk-0.13.0/Examples/ServiceExamples/Scripts/ExampleSpeechToText.cs" Line="1" Column="1" />
+      <File FileName="Assets/unity-sdk-0.13.0/Scripts/Services/Conversation/Conversation.cs" Line="64" Column="1" />
+      <File FileName="Assets/unity-sdk-0.13.0/Examples/ServiceExamples/TestData/test-stt-corpus.txt" Line="1" Column="1" />
+      <File FileName="Assets/unity-sdk-0.13.0/Scripts/Services/Conversation/DataModels.cs" Line="250" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
